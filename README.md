@@ -1,4 +1,4 @@
-# Página de Filmes da Netflix - Hospedagem do servidor na Netlify
+# Página de Filmes da Netflix - Hospedado no servidor na Netlify
 
 ## Que tal conhecer o Web Site?<br> <a href="https://netflix-clone-movie.netlify.app/" target="_blank">Quero conhecer.</a>
 
